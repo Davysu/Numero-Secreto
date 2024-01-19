@@ -1,6 +1,6 @@
 # Jogo do Número Secreto em JavaScript
 
-Este é um jogo simples desenvolvido em HTML e JavaScript onde o jogador deve adivinhar um número secreto entre 1 e 10. A interface amigável inclui um campo de entrada para o chute do jogador, botões para verificar o chute e reiniciar o jogo, além de mensagens de feedback.
+Este é um jogo simples desenvolvido em HTML e JavaScript onde o jogador deve adivinhar um número secreto entre 1 e 100. A interface amigável inclui um campo de entrada para o chute do jogador, botões para verificar o chute e reiniciar o jogo, além de mensagens de feedback.
 
 ## Recursos
 
